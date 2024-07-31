@@ -39,12 +39,12 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       const svgElement = document.querySelector('.svgContainer svg');
       svgElement.style.fill = 'black';
-      const svgElement2 = document.querySelector('#b2 svg');
-      svgElement2.style.fill = 'black';
+      // const svgElement2 = document.querySelector('#b2 svg');
+      // svgElement2.style.fill = 'black';
       const svgElement3 = document.querySelector('#b3 svg');
       svgElement3.style.fill = 'black';
-      const svgElement4 = document.querySelector('#b4 svg');
-      svgElement4.style.fill = 'black';
+      // const svgElement4 = document.querySelector('#b4 svg');
+      // svgElement4.style.fill = 'black';
       // Get all elements with the class '🤚'
       const elements = document.getElementsByClassName('🤚');
 
