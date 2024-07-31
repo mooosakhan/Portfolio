@@ -74,12 +74,12 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       const svgElement = document.querySelector('.svgContainer svg');
       svgElement.style.fill = 'white';
-      const svgElement2 = document.querySelector('#b2 svg');
-      svgElement2.style.fill = 'white';
+      // const svgElement2 = document.querySelector('#b2 svg');
+      // svgElement2.style.fill = 'white';
       const svgElement3 = document.querySelector('#b3 svg');
       svgElement3.style.fill = 'white';
-      const svgElement4 = document.querySelector('#b4 svg');
-      svgElement4.style.fill = 'white';
+      // const svgElement4 = document.querySelector('#b4 svg');
+      // svgElement4.style.fill = 'white';
       
     }
   });
